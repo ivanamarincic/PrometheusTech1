@@ -1,0 +1,64 @@
+<resources>
+
+    <string name="app_name">Kanji for Macalester</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_startup">Startup</string>
+    
+    <!-- All the buttons -->
+    <string name="change_label">Change/Toggle</string>
+    <string name="practice_problems_label">Practice Problems</string>
+    <string name="flashcards_label">Flashcards</string>
+    <string name="book_label">Book1</string>
+    <string name="chapter_label">Chapter1</string>
+    <string name="reading_label">Reading</string>
+    <string name="writing_label">Writing</string>
+    <string name="done_label">Done!</string>
+    <string name="new_session_label">New session</string>
+    <string name="chapter_label1">Chapter1</string>
+    <string name="chapter_label2">Chapter2</string>
+    <string name="chapter_label3">Chapter3</string>
+    <string name="chapter_label4">Chapter4</string>
+    <string name="chapter_label5">Chapter5</string>
+    <string name="chapter_label6">Chapter6</string>
+    <string name="chapter_label7">Chapter7</string>
+    <string name="chapter_label8">Chapter8</string>
+    <string name="chapter_label9">Chapter9</string>
+    <string name="chapter_label10">Chapter10</string>
+    <string name="chapter_label11">Chapter11</string>
+    <string name="chapter_label12">Chapter12</string>
+    <string name="chapter_labelall">All Chapters</string>
+    <string name="chapterhead">Select Chapters</string>
+    <string name="chapter1">1. Japanese Geography</string>
+    <string name="chapter2">2. Language Style</string>
+    <string name="chapter3">3. Japenese Technology</string>
+    <string name="chapter4">4. Japanese Sports</string>
+    <string name="chapter5">5. Japanese Food</string>
+    <string name="chapter6">6. Religions</string>
+    <string name="chapter7">7. Pop Culture</string>
+    <string name="chapter8">8. Traditional Arts</string>
+    <string name="chapter9">9 unavailable</string>
+    <string name="chapter10">10 unavailable</string>
+    <string name="chapter11">11 unavailable</string>
+    <string name="chapter12">12 unavailable</string>
+    <string name="draw_label">Draw!</string>
+    <string name="next_char_label">Next</string>
+    <string name="back_char_label">Back \nto prompt</string>
+    <string name="help_label">Help!</string>
+    <string name="go_label">Go!</string>
+    <string name="finish_current_label">Finish session</string>
+    
+        <!-- Text Views -->
+    <string name="summary_label"> Summary</string>
+    <string name="what_chapters_label">  Chapters \n  completed</string>
+    <string name="total_chars_label">  Total number of \n  characters</string>
+    <string name="total_correct_label">  Total number of \n  correct answers</string>
+    <string name="chars_num_label">chars_num</string>
+    <string name="correct_num_label">correct_num</string>
+    <string name="chp_number_label">chp_num</string>
+    <string name="writePrompt_label">Write:</string>
+    <string name="definition">def</string>
+    <string name="help_message">\        Instructions: \n\n       Enter the standard pronunciation of the \n character(s), using the English or Japanese alphabet.</string>
+	<string name="book_description_label">JAPA 101 \nIntroduction to\nJapanese I</string>
+	<string name="sum_label">Usage Summary</string>
+
+</resources>

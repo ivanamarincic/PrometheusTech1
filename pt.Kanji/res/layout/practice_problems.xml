@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="30dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="20dp"
+            android:orientation="vertical" >
+
+            <ImageButton
+                android:id="@+id/book_button"
+                android:layout_width="150dp"
+                android:layout_height="200dp"
+                android:src="@drawable/kanjibook" />
+
+            <TextView
+                android:id="@+id/book_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="21dp"
+                android:text="@string/book_description_label"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#005500"
+                android:textStyle="bold" />
+            
+            <Button
+                android:id="@+id/empty1_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/blank_book"></Button>
+            
+            <TextView
+                android:id="@+id/emtpyD1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="21dp"
+                android:text="Book2"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#005500"
+                android:textStyle="bold" />
+
+           	<Button
+                android:id="@+id/empty2_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/blank_book"></Button>
+            
+            <TextView
+                android:id="@+id/emtpyD2"
+                 android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="21dp"
+                android:text="Book3"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#005500"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/select_book_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:background="#550000"
+        android:text="Select your book"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</RelativeLayout>

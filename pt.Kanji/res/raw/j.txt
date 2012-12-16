@@ -1,0 +1,123 @@
+﻿1	15	1	地理	ちり	chiri	geography
+1	15	2	皆さん	みなさん	minasann	everyone
+1	15	3	大陸	たいりく	tairiku	continent
+1	15	4	都市	とし	tosi	city
+1	15	5	全体	ぜんたい	zenntai	entire
+1	15	6	首都	しゅと	syuto	capital city
+1	15	7	平和	へいわ	heiwa	peace
+1	15	8	気候	きこう	kikou	climate
+1	15	9	桜	さくら	sakura	cherry blossoms
+1	15	10	終わり	おわり	owari	the end
+1	15	11	名所	めいしょ	meisyo	place of interest
+1	15	12	例えば	たとえば	tatoeba	for example
+1	15	13	美しい	うつくしい	utukusii	beautiful
+1	15	14	壁	かべ	kabe	wall
+1	15	15	建物	たてもの	tatemono	building
+2	15	16	敬語	けいご	keigo	honorific language
+2	15	17	実は	じつわ	jituwa	in fact
+2	15	18	複雑	ふくざつ	fukuzatu	complicated
+2	15	19	課	か	ka	lesson
+2	15	20	言語	げんご	genngo	language
+2	15	21	部分	ぶぶん	bubunn	part
+2	15	22	感じ	かんじ	kannji	feeling
+2	15	23	多く	おおく	ooku	many
+2	15	24	場面	ばめん	bamenn	situation
+2	15	25	文字	もじ	moji	character
+2	15	26	恋人	こいびと	koibito	boyfriend or girlfriend	
+2	15	27	例	れい	rei	example
+2	15	28	表現	ひょうげん	hyougenn	expression
+2	15	29	最後	さいご	saigo	the last
+2	15	30	連絡	れんらく	rennraku	contact
+3	15	31	技術	ぎじゅつ	gijyutu	technology
+3	15	32	発達	はったつ	hattatu	development
+3	15	33	会場	かいじょう	kaijyou	event site
+3	15	34	描く	かく	kaku	paint
+3	15	35	手術	しゅじゅつ	syujyutu	surgery
+3	15	36	社会	しゃかい	syakai	society
+3	15	37	人間	にんげん	ninngenn	human
+3	15	38	暮らす	くらす	kurasu	to live
+3	15	39	年	とし	tosi	age
+3	15	40	毛	け	ke	hair
+3	15	41	首	くび	kubi	neck
+3	15	42	声	こえ	koe	voice
+3	15	43	周り	まわり	mawari	vicinity
+3	15	44	動物	どうぶつ	doubutu	animal
+3	15	45	大事	だいじ	daiji	important
+4	15	46	合格	ごうかく	goukaku	pass
+4	15	47	お祝い	おいわい	oiwai	congratulatory gift
+4	15	48	学ぶ	まなぶ	manabu	to learn
+4	15	49	現代	げんだい	genndai	contemporary
+4	15	50	健康	けんこう	kennkou	health
+4	15	51	番組	ばんぐみ	banngumi	program
+4	15	52	相撲	すもう	sumou	sumo wrestling
+4	15	53	国内	こくない	kokunai	domestic
+4	15	54	試合	しあい	siai	game
+4	15	55	選手	せんしゅ	sennsyu	athelete
+4	15	56	成長	せいちょう	seicyou	growth
+4	15	57	笑顔	えがお	egao	smiling face
+4	15	58	大声	おおごえ	oogoe	loud voice
+4	15	59	叫ぶ	さけぶ	sakebu	shout
+4	15	60	絶対	ぜったい	zettai	abosolute
+4	15	61	感謝	かんしゃ	kannsya	gratitude
+5	15	62	発明	はつめい	hatumei	invention
+5	15	63	物語	もにがたり	monogatari	story
+5	15	64	全	ぜん	zenn	all
+5	15	65	量	りょう	ryou	quantity
+5	15	66	値段	ねだん	nedann	price
+5	15	67	若者	わかもの	wakamono	young people
+5	15	68	現在	げんざい	gennzai	the present
+5	15	69	南米	なんべい	nannbei	South America
+5	15	70	戦後	せんご	senngo	postwar
+5	15	71	時代	じだい	jidai	times
+5	15	72	失敗	しっぱい	sippai	failure
+5	15	73	競争	きょうそう	kyousou	competition
+5	15	74	国境	こっきょう	kokkyou	national border
+5	15	75	習慣	しゅうかん	syuukann	habit
+5	15	76	伝統	でんとう	denntou	tradition
+6	15	77	宗教	しゅうきょう	syuukyou	religion
+6	15	78	苦しい	くるしい	kurusii	hard
+6	15	79	仏様	ことけさま	kotokesama	Buddha
+6	15	80	両方	りょうほう	ryouhou	both
+6	15	81	神道	しんとう	sinntou	shintoism
+6	15	82	仏教	ぶっきょう	bukkyou	Buddhism
+6	15	83	不思議	ふしぎ	fusigi	mysterious
+6	15	84	神社	じんじゃ	jinnJya	shrine
+6	15	85	お参り	おまいり	omairi	visit
+6	15	86	不幸	ふこう	okou	bad luck
+6	15	87	幸福	こうふく	koufuku	happiness
+6	15	88	願う	ねがう	negau	to hope
+6	15	89	先祖	せんぞ	sennzo	ancestor
+6	15	90	墓	はか	haka	grave
+6	15	91	信者	しんじゃ	sinnjya	follower
+7	15	92	様々	さまざま	samazama	various
+7	15	93	経済	けいざい	keizai	economy
+7	15	94	影響	えいきょう	eikyou	influence
+7	15	95	元	もと	moto	origin
+7	15	96	翻訳	ほんやく	honnyaku	written translation
+7	15	97	読者	どくしゃ	dokusya	reader
+7	15	98	欧米	おうべい	oubei	Europeans and Americans
+7	15	99	少年	しょうねん	syounenn	young boy
+7	15	100	少女	しょうじょ	syoujyo	young girl
+7	15	101	出版	しゅっぱん	syuppann	publication
+7	15	102	魅力	みりょく	miryoku	attraction
+7	15	103	方法	ほうほう	houhou	method
+7	15	104	医学	いがく	igaku	medical science
+7	15	105	作品	さくひん	sakuhinn	work
+7	15	106	虫	むし	musi	bug
+8	15	107	科学	かがく	kagaku	science
+8	15	108	証明	しょうめい	syoumei	proof
+8	15	109	患者	かんじゃ	kannjya	patient
+8	15	110	講義	こうぎ	kougi	lecture
+8	15	111	実験	じっけん	jikkenn	experiment
+8	15	112	平均	へいきん	heikinn	average
+8	15	113	癌	がん	gann	cancer
+8	15	114	減る	へる	heru	to decrease
+8	15	115	踊り	おどり	odori	dance
+8	15	116	中心	ちゅうしん	cyuusinn	center
+8	15	117	劇	げき	geki	play
+8	15	118	完成	かんせい	kannsei	completion
+8	15	119	主人	しゅじん	syujinn	master
+8	15	120	登場	とうじょう	toujyou	appearing
+8	15	121	悲劇	ひげき	higeki	tragedy
+8	15	122	立場	たちば	tachiba	position
+8	15	123	身分	みぶん	mibunn	social status

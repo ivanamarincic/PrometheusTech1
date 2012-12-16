@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    
+    
+    
+    
+
+<LinearLayout android:id="@+id/draw_panel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_alignParentLeft="true" android:layout_alignParentRight="true" android:layout_alignParentTop="true" android:background="@drawable/background" android:orientation="vertical">
+    </LinearLayout><SlidingDrawer android:id="@+id/slidingD" android:layout_width="match_parent" android:layout_height="match_parent" android:content="@+id/content" android:handle="@+id/handle">
+
+    <Button android:id="@+id/handle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="More" />
+
+        <RelativeLayout
+            android:id="@+id/content"
+            android:layout_width="match_parent"
+            android:layout_height="528dp" >
+
+         <ImageView android:id="@+id/imageView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_centerVertical="true" android:src="@drawable/unavailable" />
+
+         <Button
+             android:id="@+id/back_char"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="@string/back_char_label" />
+
+         <Button
+             android:id="@+id/clear"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_alignParentTop="true"
+             android:layout_centerHorizontal="true"
+             android:text="Clear" />
+
+         <Button
+             android:id="@+id/next_char"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_alignBottom="@+id/back_char"
+             android:layout_alignParentRight="true"
+             android:layout_marginRight="15dp"
+             android:text="@string/next_char_label" />
+
+        </RelativeLayout>
+
+    </SlidingDrawer></RelativeLayout>

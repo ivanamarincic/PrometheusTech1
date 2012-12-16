@@ -1,0 +1,76 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="prometheus.kanji"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="15" />
+
+    <application
+         android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+	<activity
+            android:name=".Startup" 
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity 
+            android:name=".PracticeProblems"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+            </intent-filter>
+            </activity>
+        
+            
+        <activity 
+            android:name=".Book"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+            
+        
+        <activity
+            android:name=".Chapter"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+            
+        
+        <activity
+            android:name=".Reading"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+            
+        
+        <activity
+            android:name=".Writing"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+
+                </activity>
+        
+        <activity
+            android:name=".EndOfSession"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+        
+        <activity
+            android:name=".WritingPrompt"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen">   
+        </activity>
+        <activity
+            android:name=".Help"/>
+        <activity
+            android:name="database.ProcessingAnswer"/>
+        <activity
+            android:name=".ListChapterContent"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+        <activity
+            android:name=".UsageSummary"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+    </application>
+
+</manifest>
+
+    

@@ -1,0 +1,38 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background1" >
+
+    <!--
+    <Button
+        android:id="@+id/flashcards_button"
+        android:layout_width="180dp"
+        android:layout_height="155dp"
+        android:background="@drawable/flashcards_picture"
+        android:layout_alignLeft="@+id/practice_problems_button"
+        android:layout_below="@+id/practice_problems_button"
+        android:layout_marginTop="40dp"
+        android:textSize="24dp" />
+    -->
+
+    <Button
+        android:id="@+id/practice_problems_button"
+        android:layout_width="180dp"
+        android:layout_height="155dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="126dp"
+        android:background="@drawable/u"
+        android:textColor="#330033"
+        android:textSize="24dp" />
+
+    <Button
+        android:id="@+id/sum_button"
+        android:layout_width="180dp"
+        android:layout_height="155dp"
+        android:layout_alignLeft="@+id/practice_problems_button"
+        android:layout_below="@+id/practice_problems_button"
+        android:background="@drawable/usage"
+        android:textStyle="bold" />
+
+</RelativeLayout>
